@@ -1,0 +1,29 @@
+﻿Git
+git add : ajoute le contenu du répertoire de travail dans la zone d’index pour le prochain commit. 
+git branch : Elle  liste les branches que vous avez
+
+
+git checkout : est utilisée pour passer d’une branche à l’autre
+
+
+git log : est utilisée pour montrer l’historique enregistré atteignable d’un projet en partant du commit le plus récent.
+
+
+
+
+Git checkout -b “Nom du branche” : pour créer une nouvelle branche elle se mit dedans.
+
+
+Git pull :  pour collecter la derniere version sur github sur le repo local.
+
+
+Git push : transmet les commits du branche local vers la branche de depot (github)
+
+
+Git status : affiche les modifications en cours, ainsi leur etat, si il son dans la zone d’index ou pas.
+
+
+Git clone : recoi une copie de tout le repo depuis github vers un repo local.
+
+
+Git commit : pour enregistrer les modifications ajoutes
